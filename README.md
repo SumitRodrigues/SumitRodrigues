@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **sumitrod11@gmail.com**
 
-- 📄 Know about my experiences [file:///Users/sumitrodrigues/Desktop/Desktop%20Files/Sumit%20Rodrigues%20-%20Resume.pdf](file:///Users/sumitrodrigues/Desktop/Desktop%20Files/Sumit%20Rodrigues%20-%20Resume.pdf)
+- 📄 Know about my experiences https://sumit-rodrigues.netlify.app/Sumit-Rodrigues-Resume.pdf
 
 - ⚡ Fun fact **I like to play cricket, solve leetcode problems and workout.**
 
