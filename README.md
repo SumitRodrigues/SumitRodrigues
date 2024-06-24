@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sumit Rodrigues</h1>
 <h3 align="center">A passionate Software Developer from Fullerton, California.</h3>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitrodrigues&label=Profile%20views&color=0e75b6&style=flat" alt="sumitrodrigues" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitrodrigues" alt="sumitrodrigues" /></a> </p>
 ###
 
 <img align="right" height="150" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bea7769e-cd87-495f-ad0e-04ddfbb73091"  />
 
 ###
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitrodrigues&label=Profile%20views&color=0e75b6&style=flat" alt="sumitrodrigues" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitrodrigues" alt="sumitrodrigues" /></a> </p>
 
 - 🔭 I’m currently working on [Brews & Cheers patreon website](https://github.com/SumitRodrigues/brews-and-cheers)
 
