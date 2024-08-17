@@ -11,7 +11,7 @@
 
 ###
 
-- 🔭 I’m currently working on [Brews & Cheers patreon website](https://github.com/SumitRodrigues/brews-and-cheers)
+- 🔭 I’m currently working on a **Software Engineering Fellowship at Headstarter AI.**
 
 - 🌱 I’m currently learning **Generative AI and JAVA Frameworks.**
 
