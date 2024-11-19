@@ -11,9 +11,9 @@
 
 ###
 
-- 🔭 I’m currently working on a **Software Engineering Fellowship at Headstarter AI.**
+- 🔭 I’m currently working on building **Inventory Prediction System.**
 
-- 🌱 I’m currently learning **Generative AI and JAVA Frameworks.**
+- 🌱 I’m currently learning **Generative AI and Machine Learning.**
 
 - 👨‍💻 All of my projects are available at [https://sumit-rodrigues.netlify.app/](https://sumit-rodrigues.netlify.app/)
 
